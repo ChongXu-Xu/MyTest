@@ -5,7 +5,7 @@ public class Person {
 	// 名称slave3
 	private String name;
 	
-	// 年龄slave3
+	// 年龄slave4
 	private int age;
 
 	public String getName() {
