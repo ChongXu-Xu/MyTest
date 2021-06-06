@@ -2,10 +2,10 @@ package scott;
 
 public class Person {
 
-	// 名称slave2
+	// 名称slave3
 	private String name;
 	
-	// 年龄slave2
+	// 年龄slave3
 	private int age;
 
 	public String getName() {
